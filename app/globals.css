@@ -31,3 +31,15 @@ body {
     text-wrap: balance;
   }
 }
+
+.poppins {
+  font-family: var(--font-poppins);
+}
+
+.poppins-regular {
+  font-weight: 400;
+}
+
+.poppins-light {
+  font-weight: 300;
+}
